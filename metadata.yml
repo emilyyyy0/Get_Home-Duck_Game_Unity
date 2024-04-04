@@ -1,0 +1,30 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL
+RepoURL: https://github.com/COMP30019/project-2-naurway-studios
+
+# 2. Your team name (plain text, no more than 50 chars)
+TeamName: Naurway Studios
+
+# 3. List every team member below. Ensure student names/emails match
+#    official UniMelb records exactly (i.e., avoid nicknames or aliases).
+TeamMembers:
+  - Name: Lin Xin Xie
+    Email: linxx@student.unimelb.edu.au
+  - Name: Emily Gong
+    Email: ehgong@student.unimelb.edu.au
+  - Name: Edwin Li
+    Email: edwincl@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Get Home
+GameBlurb: In "Get Home", players assume the role of a mother duck striving to lead her five ducklings safely back to their coop before sundown, when predatory wolves emerge. Set in a farmland forest, this timed survival game takes a dark twist as players combat growing threats to protect their family. Adopting a third-person MOBA-style perspective, players utilize skills such as "Peck", "Wing Assault", and "Honk Surprise" to fend off predators. As daylight wanes, challenges intensify with heightened enemy aggression. Environmental elements, like rivers and mud puddles, add strategic depth. Though reminiscent of games like "Untitled Goose Game" and "Stardew Valley", "Get Home" offers a unique blend of cuteness and tension, emphasizing themes of family and survival in a 3D polyart forest setting. With each passing moment, the stakes rise, making the quest to secure the safety of the ducklings both heartwarming and thrilling.
+
+# Milestone 2 entries
+GameplayVideo: https://youtu.be/YBPDL8exoRg

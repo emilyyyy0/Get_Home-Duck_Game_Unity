@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>7f4e4c89cb1134de0b2a1093be08d6c3</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.4331636+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b5ae7887e750b4cd3947d4ce1d4aca44</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.4344028+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c73b7afcf48646da83b3913928e738d</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.4344028+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4ab5bdfd0e9f545b1a1393afc7a78e8f</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.4355076+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8fed621180b2f48ab964349b8cea7ac3</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.4355076+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>89933d9bea5af4f59b000ec61eb1fb95</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.4355076+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d92bbfbe0fba4818892e8e2499e6db63</guid>
+    <fileName>Assets/Scripts/Utils.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5386237+11:00</timeStamp>
+    <typeFullName>
+      <string>DefaultNamespace.Utils</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3ed32ef5ce4f148699036166b10c8e42</guid>
+    <fileName>Assets/Particle Systems/Blood Particle System/BloodDestroyer.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.4263467+11:00</timeStamp>
+    <typeFullName>
+      <string>BloodDestroyer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>33cc093b2f4fc9448a750c3c3aa3b2e2</guid>
+    <fileName>Assets/polyperfect/Common/Common_AnimationControl.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5443228+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>915796de81cded2468e7770157da5967</guid>
+    <fileName>Assets/polyperfect/Common/Common_AnimSpeed.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5443228+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e206305d2c33c424eb12b24eded1362a</guid>
+    <fileName>Assets/polyperfect/Common/Common_KillSwitch.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.545463+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19062bfbf36bb40489759a4031f6b117</guid>
+    <fileName>Assets/polyperfect/Common/Common_PlaySound.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.545463+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fc9c51e5da8497349a44b0404100252d</guid>
+    <fileName>Assets/polyperfect/Common/Common_RandomInt.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5466023+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0b127db597eeca4cac16f30c138d8c0</guid>
+    <fileName>Assets/polyperfect/Common/RandomCharacterPlacer.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5466023+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>63992a4757a54ac89bac3ac154975d85</guid>
+    <fileName>Assets/Scripts/Ability/AbstractAbility.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5131723+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.Ability.AbstractAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35943b2ec424420f810c976cb71ba4c2</guid>
+    <fileName>Assets/Scripts/Ability/EnemyAbility.cs</fileName>
+    <timeStamp>2023-10-31T23:06:51.0151371+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.EnemyAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e099b077fd24330ae71f5b0b49da326</guid>
+    <fileName>Assets/Scripts/Ability/EnemyAbilityExecutor.cs</fileName>
+    <timeStamp>2023-10-31T20:52:48.5861236+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.Ability.EnemyAbilityExecutor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>136a17d8c13647228aec91d662fdcd6b</guid>
+    <fileName>Assets/Scripts/Ability/PlayerAbility.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.520144+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.Ability.PlayerAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>44171a83a7cc4f78acd88864d6dff528</guid>
+    <fileName>Assets/Scripts/Ability/PlayerAbilityExecutor.cs</fileName>
+    <timeStamp>2023-10-31T21:17:22.2243497+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.Ability.PlayerAbilityExecutor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc1729cc204114072acb2eff9393c10c</guid>
+    <fileName>Assets/Scripts/Buffs/HealthItemScript.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5225743+11:00</timeStamp>
+    <typeFullName>
+      <string>HealthItemScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b1cf928f01d3aec43ada796a362a9ee2</guid>
+    <fileName>Assets/Scripts/Buffs/SpeedScript.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5225743+11:00</timeStamp>
+    <typeFullName>
+      <string>ItemScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34d00ed7ede08644881f1146abd0c7b4</guid>
+    <fileName>Assets/Scripts/Camera/BillboardCanvas.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5239776+11:00</timeStamp>
+    <typeFullName>
+      <string>BillboardCanvas</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f90e0b9587cb4fe42a7ccef8444f6ed5</guid>
+    <fileName>Assets/Scripts/Camera/CameraScrollScript.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5250281+11:00</timeStamp>
+    <typeFullName>
+      <string>CameraScrollScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0dfd7ada400bb947a2222b6586f0f4a</guid>
+    <fileName>Assets/Scripts/Camera/FreeAndFollowCameraManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5250281+11:00</timeStamp>
+    <typeFullName>
+      <string>FreeAndFollowCameraManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>556201bdd5c0407e986df2f3f0402dd6</guid>
+    <fileName>Assets/Scripts/Entity/HighlightManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5275327+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.HighlightManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f9a350d25bfd443da3ab16a1b74bf7a2</guid>
+    <fileName>Assets/Scripts/Entity/LivingEntityController.cs</fileName>
+    <timeStamp>2023-10-31T22:40:49.6542239+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.LivingEntityController</string>
+      <string>CombatSystem.LivingEntityController+OnDeathDelegate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>617900933bfd4ae38dbeb0bde639b871</guid>
+    <fileName>Assets/Scripts/Entity/NavMeshVelocityManager.cs</fileName>
+    <timeStamp>2023-10-31T21:52:42.0892398+11:00</timeStamp>
+    <typeFullName>
+      <string>Movement.NavMeshVelocityManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e6770178a8f42cc81935005fa94a042</guid>
+    <fileName>Assets/Scripts/Entity/WanderingEntityController.cs</fileName>
+    <timeStamp>2023-10-31T21:20:20.8284765+11:00</timeStamp>
+    <typeFullName>
+      <string>WanderingEntityController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ee590fee938410382728b3cc217632d</guid>
+    <fileName>Assets/Scripts/Lighting/LightingManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.534893+11:00</timeStamp>
+    <typeFullName>
+      <string>Lighting.LightingManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57398d7f6d0943f6908f65843a663e40</guid>
+    <fileName>Assets/Scripts/Lighting/LightingPreset.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5359896+11:00</timeStamp>
+    <typeFullName>
+      <string>Lighting.LightingPreset</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0742e70e78b1d4c63b332a2ca33137db</guid>
+    <fileName>Assets/Scripts/UI/CountdownTimer.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5359896+11:00</timeStamp>
+    <typeFullName>
+      <string>CountdownTimer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>381d878eb94f54ec2b2744df6435266e</guid>
+    <fileName>Assets/Scripts/UI/GameOver.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5373655+11:00</timeStamp>
+    <typeFullName>
+      <string>NewBehaviourScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0cba46778fae418eb1086e65dd9ba10b</guid>
+    <fileName>Assets/Scripts/UI/HealthUIController.cs</fileName>
+    <timeStamp>2023-10-31T20:52:47.0444207+11:00</timeStamp>
+    <typeFullName>
+      <string>UIScripts.HealthUIController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>445ba8adcd7c6457a814dcc04ddf493c</guid>
+    <fileName>Assets/Scripts/UI/Menu.cs</fileName>
+    <timeStamp>2023-10-31T23:09:35.6207695+11:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bb266b367aa129d4fb8a475262be48c7</guid>
+    <fileName>Assets/Scripts/UI/PauseMenu.cs</fileName>
+    <timeStamp>2023-10-31T23:09:35.622275+11:00</timeStamp>
+    <typeFullName>
+      <string>PauseMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e3b61c5d09630c42996ac2bb2e4cc13</guid>
+    <fileName>Assets/Scripts/UI/Settings.cs</fileName>
+    <timeStamp>2023-10-31T20:52:45.5645214+11:00</timeStamp>
+    <typeFullName>
+      <string>Settings</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>149d864443ddca94ba93b092e7acd5ea</guid>
+    <fileName>Assets/DownloadedAssets/ProgressBar/Script/ProgressBar.cs</fileName>
+    <timeStamp>2023-10-31T22:40:49.6562352+11:00</timeStamp>
+    <typeFullName>
+      <string>ProgressBar</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5fea29bb7c508c244a1f805a5fd3fc4d</guid>
+    <fileName>Assets/DownloadedAssets/QuickOutline/Scripts/Outline.cs</fileName>
+    <timeStamp>2023-10-31T20:26:15.6187745+11:00</timeStamp>
+    <typeFullName>
+      <string>Outline</string>
+      <string>Outline+Mode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e709b760b06da294f814b370a8307877</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/AIState.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5477548+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d294090abbd76c41897a75d0bdfd618</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/AIStats.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5477548+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ee744710697d4c043b8044651949c781</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/Common_AudioManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5490854+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22aa810bcf7059a4b9ac276556a145d6</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/Common_SurfaceRotation.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5490854+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d9fa5620a498ba3488c1ebfd1449dafc</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/Common_WanderManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5500878+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>64b3d9a5c64ccd24fb01b2fd38c49b4d</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/Common_WanderScript.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5500878+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d1364d2b58ad7064ba9b0a0f16317924</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/IdleState.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5534891+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>022cf66c19a6569499fab0d22fb78752</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/MovementState.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5534891+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8cc2078304b8487c9e76b7f0a26b5bfb</guid>
+    <fileName>Assets/Scripts/Ability/Enemy/ChargeAbility.cs</fileName>
+    <timeStamp>2023-10-31T22:06:08.4890277+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.Ability.Enemy.ChargeAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cda5fc7e4ccc4182b21772f119bd9363</guid>
+    <fileName>Assets/Scripts/Ability/Enemy/GroundSmashAbility.cs</fileName>
+    <timeStamp>2023-10-31T21:56:06.0914025+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.Ability.Enemy.GroundSmashAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d8eb7a62fbe491eb364406425028ef7</guid>
+    <fileName>Assets/Scripts/Ability/Enemy/HowlAbility.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5154231+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.Ability.Enemy.HowlAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>89b247ad794542f8bb2d8c6ef7a55e1e</guid>
+    <fileName>Assets/Scripts/Ability/Enemy/HuntingAbility.cs</fileName>
+    <timeStamp>2023-10-31T23:03:33.2772986+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.Ability.Enemy.HuntingAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0bdc1185a214b4689d5d8250022e9bf</guid>
+    <fileName>Assets/Scripts/Ability/Enemy/ProjectileAbility.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5165562+11:00</timeStamp>
+    <typeFullName>
+      <string>Entity.ProjectileAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7dd9bce161f4024b49a819f81fcc55c</guid>
+    <fileName>Assets/Scripts/Ability/Player/PlayerDashAbility.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5190397+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.Ability.PlayerDashAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>743f6a6d71cb41af8f3b8eb85934a157</guid>
+    <fileName>Assets/Scripts/Ability/Player/PlayerHonkAbility.cs</fileName>
+    <timeStamp>2023-10-31T20:52:46.7651029+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.Ability.PlayerHonkAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e97fc215951543bfb0c11b5a33593fa8</guid>
+    <fileName>Assets/Scripts/Ability/Player/PlayerPeckAbility.cs</fileName>
+    <timeStamp>2023-10-31T22:43:49.9575795+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.Ability.PlayerPeckAbility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>beedbc02b9c693e43ab3125126c87e3a</guid>
+    <fileName>Assets/Scripts/Ability/Player/ProjectileHandler.cs</fileName>
+    <timeStamp>2023-10-31T20:59:58.1513427+11:00</timeStamp>
+    <typeFullName>
+      <string>ProjectileHandler</string>
+      <string>ProjectileHandler+OnCollisionEnterDelegate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9e71cccc5dc4007a4fae61df07de2e7</guid>
+    <fileName>Assets/Scripts/Entity/Friendly/FishController.cs</fileName>
+    <timeStamp>2023-10-31T20:52:46.168676+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.FishController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6dfde60f763546b6a22f699c8647dabb</guid>
+    <fileName>Assets/Scripts/Entity/Friendly/RabbitController.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5260889+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.RabbitController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d4085354cd300e440ae7aaa9fccdb22a</guid>
+    <fileName>Assets/Scripts/Entity/Hostile/BearBossController.cs</fileName>
+    <timeStamp>2023-10-31T23:22:03.6212685+11:00</timeStamp>
+    <typeFullName>
+      <string>BearBossController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4d864af84c634de28a4b6b95d94d7e21</guid>
+    <fileName>Assets/Scripts/Entity/Hostile/CrocController.cs</fileName>
+    <timeStamp>2023-10-31T20:52:49.473791+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.CrocController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7f00c7d23774bbda91c19245ef1304e</guid>
+    <fileName>Assets/Scripts/Entity/Hostile/DeerController.cs</fileName>
+    <timeStamp>2023-10-31T20:52:45.9808006+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.DeerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53161bd28b2a472ba99d6b2e17175206</guid>
+    <fileName>Assets/Scripts/Entity/Hostile/DogController.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.530272+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.DogController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e66cc404d38445458119ab11d6b77d7f</guid>
+    <fileName>Assets/Scripts/Entity/Hostile/SnakeController.cs</fileName>
+    <timeStamp>2023-10-31T20:52:45.9020026+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.SnakeController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c98ca75f4ef04732998f414523032d35</guid>
+    <fileName>Assets/Scripts/Entity/Hostile/WolfController.cs</fileName>
+    <timeStamp>2023-10-31T20:52:49.4104345+11:00</timeStamp>
+    <typeFullName>
+      <string>CombatSystem.WolfController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a80af8dd1493ac4b88bf49d6819ac2e</guid>
+    <fileName>Assets/Scripts/Entity/Player/BossFightAndHouseHandler.cs</fileName>
+    <timeStamp>2023-10-31T22:57:34.9737961+11:00</timeStamp>
+    <typeFullName>
+      <string>BossFightAndHouseHandler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80586b76a7e3d2b4d9d3a46c6d1c959c</guid>
+    <fileName>Assets/Scripts/Entity/Player/DuckController.cs</fileName>
+    <timeStamp>2023-10-31T22:47:17.7046689+11:00</timeStamp>
+    <typeFullName>
+      <string>DuckController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fdcd1cb71755fcf4fa3c992ee03546f2</guid>
+    <fileName>Assets/Scripts/Entity/Player/DucklingController.cs</fileName>
+    <timeStamp>2023-10-31T20:52:47.6558333+11:00</timeStamp>
+    <typeFullName>
+      <string>DucklingController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75c56f6cb413fa14597d5bb32d4d45bb</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/AnimalAudioManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.019577+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d0ca804d6b18f6d4db4ebe14203336f1</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/AnimalPlaySound.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.019577+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd7a7a06e9dc544419102196e0116b41</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/AnimalWanderManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.019577+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a2195a8d6a6885a4b89bfe071ef88f06</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/SceneAnimatorController.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0217701+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eec33d7d2e09a0648ab53c18616061c2</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/ToggleEvent.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0228766+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>54aa6e803a7fed94b82cd4a491df2923</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/Editor/Common_StatsTable.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5512015+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a20c06edf5d95024f95fbdf6601c3c1b</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/Editor/Common_WanderManagerEditor.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5522896+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e235d39895656c41a746090c6687ad0</guid>
+    <fileName>Assets/polyperfect/Common/Wander Script/Editor/Common_WanderScriptEditor.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.5522896+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eef6d80f006cf9e499760b213d5d0b9c</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/Character Viewer/AnimalViewerManager.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0205773+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>032e5ea386c3ff84384b6914dad5d8ae</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/Character Viewer/Polyperfect_CameraController.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0217701+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>38025e9300822a146ac1328021446430</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/Wander Script/Animal_AIStats.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0233097+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92d7d5c6cc9db7341a55514417198fcc</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/Wander Script/Animal_SurfaceRotation.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0243067+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>36003be02bd7fc54db18675085e2ab6f</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/Wander Script/Animal_WanderScript.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0243067+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b4cc1cb8206bc741a2ff17f548c6d37</guid>
+    <fileName>Assets/DownloadedAssets/polyperfect/Low Poly Animated Animals/- Scripts/Wander Script/Editor/Animals_WanderScriptEditor.cs</fileName>
+    <timeStamp>2023-10-31T20:26:17.0254846+11:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
